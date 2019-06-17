@@ -32,7 +32,7 @@ sc = StandardScaler()
 X_train = sc.fit_transform(X_train)
 X_test = sc.transform(X_test)
 
-# Part 2 - Now let's make the ANN!
+# Part 2 - Creating the ANN!
 
 # Importing the Keras libraries and packages
 import keras
