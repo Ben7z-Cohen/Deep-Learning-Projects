@@ -1,6 +1,5 @@
 # Bike Sharing Demand with Decision Trees and Neural Network
 
-The project is on GitHub: https://github.com/kfir1g/AI-Project
 All of the data are in this drive: https://drive.google.com/open?id=1Izq7xP1Z9SsZ2LtPqIdVL7IiRILcL9ex
 
 Within this project you can find:
