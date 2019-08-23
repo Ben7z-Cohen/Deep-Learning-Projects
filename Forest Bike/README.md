@@ -28,12 +28,6 @@ All data files can be found [here](https://drive.google.com/drive/folders/1Izq7x
 #### How to run?
 Install Bokeh first: `pip install bokeh`. 
 
-### Tree explorer
-To visualize some of the trees we've generated:
-```
-bokeh serve --show tree_explorer.py
-```
-
 ### Demand Evolvement Simulator
 To see how predicted demand is evolved during the day in dynamic timeline: 
 ```
