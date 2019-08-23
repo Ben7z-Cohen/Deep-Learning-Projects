@@ -1,6 +1,8 @@
 # Bike Sharing Demand with Decision Trees and Neural Network
 
-All of the data are in this drive: https://drive.google.com/open?id=1Izq7xP1Z9SsZ2LtPqIdVL7IiRILcL9ex
+Link to the video which explaines about the project: https://drive.google.com/open?id=1aYesYjb7Z2a84-e2_i99U8vwrvv7b6as
+Detailed report for our methods and findings: https://drive.google.com/open?id=1r1c3kl6iP5civPFl2fQ05xJ6KeHtaqTH
+Data needed to run and explore our findings: https://drive.google.com/open?id=1Izq7xP1Z9SsZ2LtPqIdVL7IiRILcL9ex
 
 Within this project you can find:
 * Data import, cleaning and feature extraction
